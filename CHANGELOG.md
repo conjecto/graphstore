@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-07-08
+
+### Changes
+- Upgrade rocksdbjni from 5.5.1 to 6.29.5
+
 ## [1.0.2] - 2019-04-15
 
 ### Changes

@@ -7,7 +7,7 @@
     <groupId>com.conjecto.graphstore</groupId>
     <artifactId>graphstore</artifactId>
     <description>Manage a graphstore</description>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>GraphStore</name>
     <url>https://github.com/conjecto/graphstore</url>
@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.rocksdb</groupId>
             <artifactId>rocksdbjni</artifactId>
-            <version>5.5.1</version>
+            <version>6.29.5</version>
         </dependency>
         <dependency>
             <groupId>org.semanticweb.yars</groupId>
